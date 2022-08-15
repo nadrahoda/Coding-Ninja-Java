@@ -1,7 +1,6 @@
 /**
  * Star_Pattern
- Print the following pattern
-Pattern for N = 4
+ Print the following pattern Pattern for N = 4
 
 The dots represent spaces.
 
